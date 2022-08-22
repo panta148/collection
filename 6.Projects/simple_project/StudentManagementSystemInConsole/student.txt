@@ -1,0 +1,22 @@
+
+
+Name:Anupa
+ Roll:1
+
+Name:Rajesh Hamal
+ Roll:2
+
+Name:manita
+ Roll:3
+
+Name:pragya
+ Roll:4
+
+Name:Aamir khan
+ Roll:5
+
+Name:ram
+ Roll:6
+
+Name:Hari
+ Roll:7
